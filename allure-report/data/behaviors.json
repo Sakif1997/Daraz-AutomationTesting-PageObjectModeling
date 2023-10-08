@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Help Center Page Test",
+    "uid" : "c72c5aeded5c7236",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1694455812682,
+      "stop" : 1694455835756,
+      "duration" : 23074
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "TestMotherAndBabyCategory",
+    "uid" : "b8a6a6523d0f4085",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1694455835923,
+      "stop" : 1694455854551,
+      "duration" : 18628
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "loginSignUp",
+    "uid" : "bf5d3f8b3c58bfc4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1694455854563,
+      "stop" : 1694455878558,
+      "duration" : 23995
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

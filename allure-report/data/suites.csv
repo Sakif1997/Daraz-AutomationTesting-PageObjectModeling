@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Sep 12 00:10:12 BDT 2023","Tue Sep 12 00:10:35 BDT 2023","23074","Suite","Test","TestCases.HelpCenterPageTest","TestCases.HelpCenterPageTest","HTest","Help Center Page Test",""
+"passed","Tue Sep 12 00:10:35 BDT 2023","Tue Sep 12 00:10:54 BDT 2023","18628","Suite","Test","TestCases.MotherAndBabyCategoryTest","TestCases.MotherAndBabyCategoryTest","TestMotherAndBabyCategory","TestMotherAndBabyCategory",""
+"passed","Tue Sep 12 00:10:54 BDT 2023","Tue Sep 12 00:11:18 BDT 2023","23995","Suite","Test","TestCases.LoginPagetest","TestCases.LoginPagetest","loginSignUp","loginSignUp","Login Page Test"
